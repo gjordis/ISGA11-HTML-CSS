@@ -1,0 +1,21 @@
+nav {
+    background-color: antiquewhite;
+    text-align: center;
+    align-content: center;
+    width: 1920;
+    height: 1cm;
+    
+}
+body {
+    background-color: rgb(59, 58, 58);
+}
+#gmap_canvas {
+    margin-top: 10px;
+}
+table, th, td {
+    border:1px solid rgb(255, 255, 255);
+
+}
+td, th {
+    color: azure;
+}
